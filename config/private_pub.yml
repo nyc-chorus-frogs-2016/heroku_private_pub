@@ -1,5 +1,5 @@
 production:
-  server: "https://< app name >.herokuapp.com/faye" 
+  server: "https://codetribute-private-pub.herokuapp.com/"
 
 #this is the address of this heroku app once you’ve deployed it, plus the `/faye` extension. 
 
